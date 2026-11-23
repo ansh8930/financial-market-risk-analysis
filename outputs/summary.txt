@@ -1,0 +1,7 @@
+SIMULATED RETURNS — EDUCATIONAL PROJECT ONLY
+observations: 1250
+exceptions: 34
+exception_rate: 0.0272
+expected_rate: 0.010000000000000009
+kupiec_lr: 25.41868543944281
+p_value: 4.6142704881589587e-07
